@@ -22,10 +22,3 @@
 
 
  <p align="center"> 
-  Visitors count<br>
-  <img src="https://www.linkedin.com/in/marcos-vinicius-0255561b6/" />
- </p>
-
-
-
-
